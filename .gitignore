@@ -131,3 +131,5 @@ dmypy.json
 .idea/
 
 BroadleafCommerce/
+
+.DS_Store
